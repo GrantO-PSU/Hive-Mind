@@ -1,0 +1,20 @@
+Start
+- 3 tokens
+Buy Phase
+- 3 Cards, Choose which to buy
+- 1 token to reroll
+Placing Phase
+- 3 by 3 grid
+- Move cards from hand onto board
+- Cannot see opponent placing because of divider till fight
+Fighting Phase
+- Attack in front if front row is blank attacks player health
+- Healers heal  before fight starts ( 1 overheal allowed)
+
+All dead bees go to the bottom of the shop deck on kill
+
+Classes:
+-Tanks do 1 less attack than attack bees
+-Magic attacks 2 squares infront of them but upgraded can go three
+-attack bees do most damage
+-Healer bees heal 1 square in front of them, upgraded can heal 1 and 2 squares infront
