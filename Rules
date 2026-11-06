@@ -1,5 +1,6 @@
 Start
 - 3 tokens
+- Each Player Has 20 HP
 Buy Phase
 - 3 Cards, Choose which to buy
 - 1 token to reroll
@@ -10,6 +11,9 @@ Placing Phase
 Fighting Phase
 - Attack in front if front row is blank attacks player health
 - Healers heal  before fight starts ( 1 overheal allowed)
+
+Win Codition
+- If your opponent dies you win
 
 All dead bees go to the bottom of the shop deck on kill
 
