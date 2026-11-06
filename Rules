@@ -19,12 +19,16 @@ All dead bees go to the bottom of the shop deck on kill
 
 Classes:
 -Tanks do 1 less attack than attack bees (Attack does not upgrade, but the bees shield gets refilled and has 1 added to it) Cost:3
-  Amount in deck : 10
+HP:3 + 2 Def
+Amount in deck : 10
 -Magic attacks 2 squares infront of them but upgraded can go three (2 at start upgraded 4) Cost:2
+HP:1
 Amount in deck : 3
 -attack bees do most damage (2 at start upgraded 3) Cost:1
+HP:2
 Amount in deck : 12
 -Healer bees heal 1 square in front of them, upgraded can heal 1 and 2 squares infront (Attack stat is switched to how much they heal AND they heal every square said on the card) Cost:2
+HP:1
 Amount in deck : 5
 
 Attack stat is in top left, cost is top right, and HP / sheild is bottom right
